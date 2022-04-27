@@ -1,1 +1,4 @@
-A simple command-line application.
+#### this repo is Learning and Implements Company Project
+```dart
+ 🤷🏻
+```
