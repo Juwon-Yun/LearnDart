@@ -16,14 +16,20 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
     11. !is와 is!을 차이를 알아야 한다.
         - !is는 null을 체크하는 것
         - is!는 타입이 맞으면 false를 리턴한다.
-    12. List 타입
+    12. List
         - add 
         - remove(key)
         - asMap
         - 기타 내장 메소드들.
-    13. Map 타입
+    13. Map
         - keys
         - values
         - addAll
         - remove(key)
+    14. Set
+        - contains
+    15. for Loop
+        - Literal for Loop
+        - for in
+        
 ```
