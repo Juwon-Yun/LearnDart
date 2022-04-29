@@ -81,7 +81,7 @@ void main () {
   // type 비교 operator
   int numberIsInteger = 1;
   print(numberIsInteger is int);
-  print(numberIsInteger !is int); // null 체크 하는거임 false냐고 뭍는게 아니다.
+  // print(numberIsInteger !is int); // null 체크 하는거임 false냐고 뭍는게 아니다.
   print(numberIsInteger is! int);
 
 
