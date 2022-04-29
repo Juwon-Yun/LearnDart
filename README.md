@@ -11,7 +11,7 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
     6. String notNullable!, !는  불용
     7. final 런타임에 값을 몰라도된다. 상수 역활
     8. const 런타임에 값을 알고 있어야한다. 상수 역활
-    9. ??=  삼항연산자와 같다, 널이라면 대입해라.
+    9. ??=  es6 question mark와 비슷하다. 널이라면 대입해라.
     10. type check operator는 is 로 쓴다. 
     11. !is와 is!을 차이를 알아야 한다.
         - !is는 null을 체크하는 것
@@ -29,10 +29,16 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
     14. Set
         - contains
     15. for Loop
-        - Literal for Loop
+        - Literal for
         - for in
     16. while loop (do while)
     17. enum
-        
-    
+    18. function (num, int 차이점)
+        - optional parameter
+        - named parameter
+        - required parameter
+        - positional parameter
+    19. arrow function
+    20. typedef and signature
+        - typedef의 signature parameter에 required 매개변수 왜안들어감?
 ```

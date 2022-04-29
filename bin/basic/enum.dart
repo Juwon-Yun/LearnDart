@@ -15,5 +15,4 @@ void main(){
   }else {
     print("거절입니다.");
   }
-
 }
