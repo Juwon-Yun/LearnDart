@@ -2,8 +2,8 @@ void main(){
   print(addNumbers( 10, b : 20, c : 30));
   print(arrowAddNumbers( 10, 20, y: 10));
 
-  // Operation operation = add(z, y, z);
-
+  // Operation operation = add(10, 11,  z :20) as Operation;
+  // operation = divide(10, 10);
 }
 
 // optional parameter [] 로 묶는다.
@@ -40,4 +40,6 @@ arrowAddNumbers(int x, int z, {
 // typedef 함수, signature라고 부른다.
 typedef Operation = int Function(int x, int y, {required int z});
 
-int add(int x, int y, int z) => x + y + z;
+int add(int x, int y, {required int z}) => x + y + z;
+
+double divide(int x, int y) => x / y;
