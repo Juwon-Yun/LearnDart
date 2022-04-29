@@ -31,5 +31,8 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
     15. for Loop
         - Literal for Loop
         - for in
+    16. while loop (do while)
+    17. enum
         
+    
 ```
