@@ -38,7 +38,7 @@ arrowAddNumbers(int x, int z, {
 }) => x + y + z;
 
 // typedef 함수, signature라고 부른다.
-typedef Operation = int Function(int x, int y, {required int z});
+typedef _Operation = int Function(int x, int y, {required int z});
 
 int add(int x, int y, {required int z}) => x + y + z;
 

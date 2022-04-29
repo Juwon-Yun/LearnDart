@@ -40,5 +40,5 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
         - positional parameter
     19. arrow function
     20. typedef and signature
-        - typedef의 signature parameter에 required 매개변수 왜안들어감?
+        - typedef의 signature parameter에 required 매개변수 확인 필요
 ```
