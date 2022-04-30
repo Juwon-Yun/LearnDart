@@ -61,6 +61,10 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
       - super()
       - type comparition
       - override
+    5. static instance
+    6. interface
+    7. abstract
+    8. generic
 
 ```
 </details>
