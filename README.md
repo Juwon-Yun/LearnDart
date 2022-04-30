@@ -68,3 +68,16 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
 
 ```
 </details>
+
+<details>
+    <summary> functional dart </summary>
+
+```dart
+    1. casting
+    2. map()
+    3. MapEntry()
+    4. where, find()와 비슷
+    5. reduce, 배열 연산 js reduce()와 비슷
+
+```
+</details>
