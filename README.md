@@ -78,6 +78,7 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
     3. MapEntry()
     4. where, find()와 비슷
     5. reduce, 배열 연산 js reduce()와 비슷
-
+    6. fold reduce의 toString과 값이 다르다 참고하자.
+    7. cascading operator, es6의 spread와 같다.
 ```
 </details>
