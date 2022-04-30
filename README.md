@@ -57,6 +57,10 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
     2. getter, setter
       - () x, {} o
     3. underScore private
+    4. inferitance
+      - super()
+      - type comparition
+      - override
 
 ```
 </details>
