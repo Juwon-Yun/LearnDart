@@ -83,3 +83,13 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
     8. MapToClass
 ```
 </details>
+
+
+<details>
+    <summary> async dart </summary>
+
+```dart
+    
+```
+
+</details>
