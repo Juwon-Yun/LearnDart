@@ -51,5 +51,12 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
 
 ```dart
     1. constructor
+      - class.fromList()
+      - imutable programming
+      - const constructor함
+    2. getter, setter
+      - () x, {} o
+    3. underScore private
+
 ```
 </details>
