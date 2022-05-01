@@ -94,7 +94,10 @@ go goroutine
 dart는 future이다.
 
 ```dart
-    
+    1. future
+      - async
+      - await
+
 ```
 
 </details>
