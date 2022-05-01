@@ -88,9 +88,10 @@ Based on Flutter 2.8.1, Dart SDK 2.15.1 (null safety)
 <details>
     <summary> async dart </summary>
 
-CPU를 효육적으로 사용할 수 있는 프로그래밍 기법 
+CPU를 효육적으로 사용할 수 있는 프로그래밍 기법
+
 java thread,
-go goroutine
+go goroutine,
 dart는 future이다.
 
 ```dart
